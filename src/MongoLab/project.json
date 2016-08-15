@@ -1,0 +1,14 @@
+﻿{
+  "version": "1.0.0-*",
+  "buildOptions": {
+    "emitEntryPoint": true
+  },
+
+  "dependencies": {
+    "mongocsharpdriver": "2.2.4" 
+  },
+
+  "frameworks": {
+    "net45" : { }
+  }
+}

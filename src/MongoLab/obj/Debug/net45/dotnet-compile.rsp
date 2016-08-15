@@ -1,0 +1,26 @@
+--temp-output:F:\Projects\MongoLab\src\MongoLab\obj\Debug\net45\
+--out:F:\Projects\MongoLab\src\MongoLab\bin\Debug\net45\MongoLab.exe
+--define:DEBUG
+--define:TRACE
+--define:NET45
+--suppress-warning:CS1701
+--suppress-warning:CS1702
+--suppress-warning:CS1705
+--platform:x64
+--optimize:False
+--emit-entry-point:True
+--output-name:MongoLab
+--file-version:1.0.0.0
+--version:1.0.0.0
+--informational-version:1.0.0
+--target-framework:.NETFramework,Version=v4.5
+--reference:C:\Users\artyom\.nuget\packages\mongocsharpdriver\2.2.4\lib\net45\MongoDB.Driver.Legacy.dll
+--reference:C:\Users\artyom\.nuget\packages\MongoDB.Bson\2.2.4\lib\net45\MongoDB.Bson.dll
+--reference:C:\Users\artyom\.nuget\packages\MongoDB.Driver\2.2.4\lib\net45\MongoDB.Driver.dll
+--reference:C:\Users\artyom\.nuget\packages\MongoDB.Driver.Core\2.2.4\lib\net45\MongoDB.Driver.Core.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Core.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Microsoft.CSharp.dll
+F:\Projects\MongoLab\src\MongoLab\Program.cs
+F:\Projects\MongoLab\src\MongoLab\Properties\AssemblyInfo.cs
