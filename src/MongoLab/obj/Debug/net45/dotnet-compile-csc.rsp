@@ -19,4 +19,5 @@
 -r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Core.dll"
 -r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Microsoft.CSharp.dll"
 "F:\Projects\MongoLab\src\MongoLab\Program.cs"
+"F:\Projects\MongoLab\src\MongoLab\Students.cs"
 "F:\Projects\MongoLab\src\MongoLab\Properties\AssemblyInfo.cs"
